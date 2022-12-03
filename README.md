@@ -7,7 +7,7 @@ Este repositorio contiene el proyecto final para la clase de Introducción a la 
 ## Reporte escrito
 En el repositorio, archivo *Solución_Sudoku_por_CSP.pdf*
 ## Presentación
-En el repositorio, archivo *Solución_Sudoku por_CSP - Presentación*
+En el repositorio, archivo *Solución_Sudoku por_CSP - Presentación.pdf*
 ## Vídeo
 https://youtu.be/hfioPUhaHHE
 
