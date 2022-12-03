@@ -5,9 +5,11 @@ Este repositorio contiene el proyecto final para la clase de Introducción a la 
 - Jaime Macias Sanchez
 
 ## Reporte escrito
-AGREGAR LINK DEL REPORTE
+En el repositorio, archivo *Solución_Sudoku_por_CSP.pdf*
+## Presentación
+En el repositorio, archivo *Solución_Sudoku por_CSP - Presentación*
 ## Vídeo
-AGREGAR LINK DEL VIDEO
+https://youtu.be/hfioPUhaHHE
 
 # ¿Cómo se usa la interfaz gráfica?
 Para correr de manera correcta la GUI programada, se deberá compilar y ejecutar el archivo Main.py.
